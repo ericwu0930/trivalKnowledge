@@ -6,4 +6,4 @@
 5. MySQL优质公众号：我们都是小青蛙
 6. MySQL索引的最左原则：https://mp.weixin.qq.com/s/iVDIlhM94loH0b632fhJxw
 7. git图解：https://zhuanlan.zhihu.com/p/147356242
-8. git submodule https://zhuanlan.zhihu.com/p/100214931
+8. git submodule https://zhuanlan.zhihu.com/p/100214931 https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E5%AD%90%E6%A8%A1%E5%9D%97
