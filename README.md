@@ -8,5 +8,5 @@
 7. git图解：https://zhuanlan.zhihu.com/p/147356242
 8. git submodule https://zhuanlan.zhihu.com/p/100214931 https://git-scm.com/book/zh/v2/Git-%E5%B7%A5%E5%85%B7-%E5%AD%90%E6%A8%A1%E5%9D%97
 9. AQS源码：https://www.cnblogs.com/waterystone/p/4920797.html
-10. KMP：https://www.zhihu.com/question/21923021
+10. KMP：主要思想https://www.zhihu.com/question/21923021 next数组的求法https://leetcode-cn.com/problems/shortest-palindrome/solution/tu-jie-kmpsuan-fa-by-yangbingjie/
 11. HashMap与ConcurrentHashMap源码：https://my.oschina.net/pingpangkuangmo/blog/817973
