@@ -10,3 +10,4 @@
 9. AQS源码：https://www.cnblogs.com/waterystone/p/4920797.html
 10. KMP：主要思想https://www.zhihu.com/question/21923021 next数组的求法https://leetcode-cn.com/problems/shortest-palindrome/solution/tu-jie-kmpsuan-fa-by-yangbingjie/
 11. HashMap与ConcurrentHashMap源码：https://my.oschina.net/pingpangkuangmo/blog/817973
+12. windows terminal完美配置 https://zhuanlan.zhihu.com/p/137595941
